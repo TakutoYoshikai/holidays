@@ -1,3 +1,4 @@
+#/usr/bin/env node
 const holiday = require("holiday-jp");
 const exec = require("child_process").exec;
 
