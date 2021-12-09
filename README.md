@@ -2,7 +2,6 @@
 
 ### Requirements
 * macOS or Ubuntu
-* homebrew or apt or yum
 * Node.js
 * npm
 
