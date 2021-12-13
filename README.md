@@ -16,6 +16,7 @@ npm install -g TakutoYoshikai/holidays
 holidays
 # It shows nothing if it's not a holiday.
 ```
+You can show figlet message when you open terminal by adding `holidays` to .bashrc
 
 ### License
 MIT License
