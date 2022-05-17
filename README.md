@@ -1,5 +1,7 @@
 # holidays
 
+<img src="./demo.png" width="400" >
+
 ### Requirements
 * macOS or Ubuntu
 * Node.js
